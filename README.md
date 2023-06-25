@@ -24,3 +24,15 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+I am an aspiring full-stack web developer from India.
+- :telescope: I’m a third-year computer engineering student.
+
+- :seedling: I'm currently learning Javascript and looking forward to building nice-looking, functional websites using MERN stack.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sania-khan-143a9a227)
