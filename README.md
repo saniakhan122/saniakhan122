@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-I am an aspiring full-stack web developer from India.
-- :telescope: I’m a third-year computer engineering student.
 
-- :seedling: I'm currently learning Javascript and looking forward to building nice-looking, functional websites using MERN stack.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sania-khan-143a9a227)
 - ---
